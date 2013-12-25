@@ -1,11 +1,17 @@
-# ZenPen - The minimal editor for the modern man
+# Mooty's Zenpen Fork
 
-Zenpen (http://zenpen.io) is a web app for writing minimally, and getting into the Zone.
+##List of improvements in the fork ;
 
-All information is persistent locally, using HTML5 local storage.
+	- None, I've just forked 5 min ago.
 
-##ZenPen's minimal interface
-![ZenPen](http://i.imgur.com/gHLGRDR.png)
+##List of improvements not already in :
 
-##Text styling
-![Text Styling](http://i.imgur.com/D7l9pRD.png)
+	- i18n ! (Internationalisation ftw).
+	- Shareable folder with password.
+	- Multi file Opening in tabs.
+	- Export to Wordpress Markup ? With common Shortcodes.
+	- More possibility for text (Color/Styling like overline/Font etc) and stay with clear interface.
+	- Rule the world.
+
+
+Copyrights to Zenpen.io !
